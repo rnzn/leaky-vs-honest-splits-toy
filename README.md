@@ -51,3 +51,7 @@ The split-strategy problem is formalized for proteins in Dallago et al., *FLIP:
 Benchmark tasks in fitness landscape inference for proteins* (NeurIPS 2021), which
 reports that random ("sampled") splits substantially overestimate model performance
 relative to biologically motivated splits.
+
+## Run it
+
+Open [`leaky_vs_honest_toymodel.ipynb`](leaky_vs_honest_toymodel.ipynb) in Google Colab and run top to bottom. No setup required.

@@ -55,3 +55,5 @@ relative to biologically motivated splits.
 ## Run it
 
 Open [`leaky_vs_honest_toymodel.ipynb`](leaky_vs_honest_toymodel.ipynb) in Google Colab and run top to bottom. No setup required.
+
+New to Python or coming from the wet lab? See [`in_plain_english.md`](in_plain_english.md) for a line-by-line walkthrough.
